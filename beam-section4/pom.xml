@@ -4,6 +4,10 @@
   <artifactId>beam-section4</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>beam-section4</name>
+  <properties>
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<maven.compiler.target>1.8</maven.compiler.target>
+	</properties>
   <dependencies>
   	<dependency>
   		<groupId>org.apache.beam</groupId>
